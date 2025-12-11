@@ -1,7 +1,7 @@
 # Controle de LED com botão push-button via MQTT (utilizando ESP32)
 
 Projeto desenvolvido para a disciplina de Sistemas Embarcados / IoT  
-Controle instantâneo de LED entre duas (ou mais) placas ESP32 utilizando protocolo MQTT.
+Controle instantâneo de LED em uma placa ESP32 utilizando protocolo MQTT.
 
 ## Descrição do Projeto
 
