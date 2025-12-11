@@ -47,18 +47,4 @@ WIFI_PASS → sua senha
 (O broker já está fixo como mqtt://test.mosquitto.org)
 
 ### 2. Compilar e gravar
-Utilizar o botão Build, Flash and Monitor da extensão ESP-IDF
-
-### 3. Testar com uma única placa (usando celular ou PC)
-Baixar o app:
-
-Android: IoT MQTT Panel
-
-Configurar as conexões com:
-
-Host: test.mosquitto.org
-Port: 1883
-
-Inscreva-se em: home/led/command
-Publique em: home/led/command → ON ou OFF
-O LED da ESP32 vai obedecer instantaneamente
+Utilizar a opção Build, Flash and Monitor da extensão ESP-IDF
