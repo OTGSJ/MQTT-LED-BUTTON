@@ -10,7 +10,7 @@ Uma placa ESP32 possue:
   1 Botão conectado ao GPIO 14 (com pull-up interno)
 
 Ao pressionar o botão, o LED da inserido acende ao manter pressionado, e apaga ao soltar.  
-O sistema funciona mesmo com apenas **uma ESP32 + um app MQTT no celular/PC**.
+O sistema funciona com apenas **uma ESP32 + um app MQTT no celular/PC**.
 
 Broker público utilizado: `test.mosquitto.org` (não precisa de cadastro)
 
