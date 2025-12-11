@@ -37,10 +37,7 @@ Botão  → GPIO 14 (um lado no GND, outro no GPIO 14)
 text## Como Usar
 
 ### 1. Configurar Wi-Fi e Broker
-Abra o menuconfig:
-bash
-idf.py menuconfig
-Altere apenas se necessário:
+Altere se necessário:
 
 WIFI_SSID → sua rede
 WIFI_PASS → sua senha
