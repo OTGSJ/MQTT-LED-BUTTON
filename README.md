@@ -62,4 +62,3 @@ Port: 1883
 Inscreva-se em: home/led/command
 Publique em: home/led/command → ON ou OFF
 O LED da ESP32 vai obedecer instantaneamente
-```
